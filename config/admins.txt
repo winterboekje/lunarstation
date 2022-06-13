@@ -8,13 +8,4 @@
 # and will override any duplicate entries in the database.									  #
 ###############################################################################################
 
-AshCorr	=	Host
-Xantam	=	Host
- 
-tehladyk = Council Member
-MenacingManatee = Council Member
-Num1bamf = Council Member
-adamsogm = Council Member
-zxmongoose = Council Member
- 
-jamied12	=	Head Developer
+Krypo	=	Host
